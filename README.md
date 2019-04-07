@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
+##欢迎来到刘清的代码仓库
+您可以使用[GitHub上的编辑器]（https://github.com/1638185626/mybatisitems/edit/master/readme.md）在标记文件中维护和预览网站的内容。
+每当您提交到此存储库时，Github页面将运行[jekyll]（https://jekyllrb.com/）从标记文件中的内容重新生成站点中的页面。
 
-You can use the [editor on GitHub](https://github.com/1638185626/MybatisItems/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/1638185626/MybatisItems/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+MyBatis 是一款优秀的持久层框架，它支持定制化 SQL、存储过程以及高级映射。MyBatis 避免了几乎所有的 JDBC 代码和手动设置参数以及获取结果集。MyBatis 可以使用简单的 XML 或注解来配置和映射原生类型、接口和 Java 的 POJO（Plain Old Java Objects，普通老式 Java 对象）为数据库中的记录
+markdown是一种轻量级且易于使用的语法，用于设计您的写作风格。它包括用于
+“降价”
+语法突出显示的代码块
+这是我第一个
+**粗体**和斜体和“代码”文本
+[链接]（url）和！[图像]（SRC）
+` `
+有关更多详细信息，请参阅[Github风味降价]（https://guides.github.com/features/mastering markdown/）。
+###杰基尔主题
+您的页面站点将使用您在[存储库设置]中选择的Jekyll主题的布局和样式（https://github.com/1638185626/mybatisitems/settings）。此主题的名称保存在jekyll`\u config.yml'配置文件中。
+###支持或联系
+页面有问题？查看我们的[文档]（https://help.github.com/categories/github-pages-basics/）或[联系支持]（https://github.com/contact），我们将帮助您进行整理。
